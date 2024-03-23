@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Justyna 👋
 
-<!--
-**justyna38/justyna38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a mobile application enthusiast with a deep passion for crafting engaging and innovative mobile experiences. Swift and the iOS environment are where my heart truly lies, although I have a foundational understanding of programming with experience in JavaScript, PHP, Java, and Angular during my learning journey.
+
+- 🔭 I’m currently focused on building mobile applications that enhance everyday life and exploring the latest iOS features to bring the most out of the Swift ecosystem.
+- 🌱 I’m continuously learning more about Swift, UI/UX design for mobile platforms, and the intricacies of app development to stay at the forefront of mobile technology.
+- 👯 I’m looking to collaborate on mobile projects that are challenging and aim to push the boundaries of what's possible on iOS devices.
+- 💼 I’m actively seeking job opportunities where I can bring my passion for mobile app development to the team and contribute to creating amazing app experiences.
+- 💬 Ask me about anything related to Swift, iOS development, or mobile app design. I’m always happy to share my knowledge and learn from others.
+
