@@ -1,4 +1,4 @@
-### Hi, I'm Justyna 👋
+### Hi, I'm Justyna from France 👋
 
 
 ## 👨‍💻 About Me
@@ -11,3 +11,5 @@ I'm a mobile application enthusiast with a deep passion for crafting engaging an
 - 💼 I’m actively seeking job opportunities where I can bring my passion for mobile app development to the team and contribute to creating amazing app experiences.
 - 💬 Ask me about anything related to Swift, iOS development, or mobile app design. I’m always happy to share my knowledge and learn from others.
 
+
+- Speaking: 🇵🇱🇫🇷🇺🇸
